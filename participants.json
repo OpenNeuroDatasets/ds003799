@@ -9,7 +9,7 @@
             "1": "Season 1",
             "2": "Season 2"
         }
-     },
+    },
     "age": {
         "LongName": "age of participant",
         "Description": "age of the participant at scanning date",

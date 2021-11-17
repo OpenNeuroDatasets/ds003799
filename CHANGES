@@ -4,5 +4,5 @@
   - minor
 1.0.2 2021-08-31
   - added missing data
-1.0.1 2021-11-05
-  - We had to delete some wrongly uploaded data. This data (including the Ces-D scores) will be uploaded again as soon as possible. 
+1.0.1 2021-08-30
+  - We added general study information and renamed the scores for CES-D in the phenotype folde (we have previously used the german version ADS).
